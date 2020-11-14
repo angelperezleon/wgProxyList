@@ -8,9 +8,7 @@ Protect MediaWiki or other CMS based installation with a list of spam offending 
 
 **Installation**
 
-*bannedips.sh*
-
- Use the main script (bannedips.sh) to pull a list of banned IP found under the https://www.stopforumspam.com/ project.
+ Use the main script (**bannedips.sh**) to pull a list of banned IP found under the https://www.stopforumspam.com/ project.
 
 **Cron job**
 - #Pull StopForumSpam IP Black List every Saturday at 8:56pm
