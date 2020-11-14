@@ -3,6 +3,7 @@
 - https://github.com/angelperezleon/wgProxyList
  
  **Purpose**
+ 
 Protect MediaWiki or other CMS based installation with a list of spam offending IP address found over at "Stop Forum Spam".
 
 **Installation**
