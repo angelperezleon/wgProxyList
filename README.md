@@ -15,4 +15,4 @@ Protect MediaWiki or other CMS based installation with a list of spam offending 
 - 56 20 * * 6 /opt/bannedips/bannedips.sh >> /opt/bannedips/bannedips_$(date +\%d\%b\%Y-\%H\%M\%S).log 2>&1
 
 **Todo**
-- [] create this todo list
+- [ ] create this todo list
