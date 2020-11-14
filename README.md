@@ -4,7 +4,7 @@
  
  **Purpose**
  
-Protect MediaWiki or other CMS based installation with a list of spam offending IP address found over at "Stop Forum Spam".
+Protect MediaWiki or other CMS based installations with a list of spam offending IP address found over at "Stop Forum Spam".
 
 **Installation**
 
