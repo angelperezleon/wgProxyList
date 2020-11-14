@@ -1,5 +1,8 @@
-# wgProxyList for MediaWiki is found here:
+# wgProxyList for MediaWiki
  https://www.mediawiki.org/wiki/Manual:$wgProxyList
+ 
+ **Purpose**
+Protect MediaWiki or other CMS based installation with a list of spam offending IP address found over at "Stop Forum Spam".
 
 **Installation**
 
