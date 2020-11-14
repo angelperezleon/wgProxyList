@@ -1,5 +1,6 @@
-# wgProxyList for MediaWiki
+# wgProxyList for MediaWiki using SFS blacklist
  https://www.mediawiki.org/wiki/Manual:$wgProxyList
+ https://github.com/angelperezleon/wgProxyList
  
  **Purpose**
 Protect MediaWiki or other CMS based installation with a list of spam offending IP address found over at "Stop Forum Spam".
