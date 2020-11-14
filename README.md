@@ -2,7 +2,9 @@
  https://www.mediawiki.org/wiki/Manual:$wgProxyList
 
 **Installation**
+
 *bannedips.sh*
+
  Use the main script (bannedips.sh) to pull a list of banned IP found under the https://www.stopforumspam.com/ project.
 
 **Cron job**
