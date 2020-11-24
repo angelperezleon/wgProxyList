@@ -17,9 +17,10 @@ Protect MediaWiki or other CMS based installations with a list of spam offending
 You can also add the script to any other CMS that can be edited to called upon the bannedips.php banlist file.
 
 **Cron job**
-- #Pull StopForumSpam IP Black List every Saturday at 8:56pm
-- 56 20 * * 6 /opt/bannedips/bannedips.sh >> /opt/bannedips/bannedips_$(date +\%d\%b\%Y-\%H\%M\%S).log 2>&1
-
+ ```bash
+#Pull StopForumSpam IP Black List every Saturday at 8:56pm
+56 20 * * 6 /opt/bannedips/bannedips.sh >> /opt/bannedips/bannedips_$(date +\%d\%b\%Y-\%H\%M\%S).log 2>&1
+```
 **Todo**
 - [ ] create this todo list
 - [ ] Test on other platforms a build a compatible list.
