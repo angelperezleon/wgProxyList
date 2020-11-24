@@ -10,7 +10,7 @@ Protect MediaWiki or other CMS based installations with a list of spam offending
 
  Use the main script (**bannedips.sh**) to pull a list of banned IP found under the https://www.stopforumspam.com/ project.
  Add to MediaWiki LocalSettings.php file the following:
- - # wgProxyList stopforumspam ban list
+ - #wgProxyList stopforumspam ban list
  - require_once "$IP/bannedips.php";
 
 **Cron job**
