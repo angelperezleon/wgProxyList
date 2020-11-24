@@ -20,3 +20,4 @@ You can also add the script to any other CMS that can be edited to called upon t
 
 **Todo**
 - [ ] create this todo list
+- [ ] Test on other platforms a build a compatible list.
